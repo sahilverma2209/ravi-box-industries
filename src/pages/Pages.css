@@ -834,14 +834,44 @@
    CONTACT LINK STYLES
    =========================== */
 .contact-card a {
-  color: #e94560;
+  color: #555;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .contact-card a:hover {
-  color: #d63451;
+  color: #1a1a2e;
   text-decoration: underline;
+}
+
+/* Contact phone entry - name + number on separate lines */
+.contact-phone-entry {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.6rem;
+}
+
+.contact-phone-entry:last-child {
+  margin-bottom: 0;
+}
+
+.contact-name {
+  font-size: 0.8rem;
+  color: #999;
+  font-weight: 600;
+  margin-bottom: 0.1rem;
+}
+
+.contact-number {
+  font-size: 1.05rem;
+  color: #444;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-number:hover {
+  color: #1a1a2e;
 }
 
 /* ===========================

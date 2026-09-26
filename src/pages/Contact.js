@@ -48,8 +48,14 @@ function Contact() {
                 <i className="fas fa-phone-alt"></i>
               </div>
               <h3>Phone</h3>
-              <p><strong>Ravi Verma:</strong> <a href="tel:+919811038123">+91 98110 38123</a></p>
-              <p><strong>Rajkumar Yadav:</strong> <a href="tel:+918920759356">+91 89207 59356</a></p>
+              <div className="contact-phone-entry">
+                <span className="contact-name">Ravi Verma</span>
+                <a href="tel:+919811038123" className="contact-number">+91 98110 38123</a>
+              </div>
+              <div className="contact-phone-entry">
+                <span className="contact-name">Rajkumar Yadav</span>
+                <a href="tel:+918920759356" className="contact-number">+91 89207 59356</a>
+              </div>
             </div>
             <div className="contact-card">
               <div className="contact-card-icon">
