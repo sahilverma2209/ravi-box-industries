@@ -22,7 +22,7 @@ function About() {
             Printed Boxes, High BF Kraft Paper</strong> and <strong>Printing Job Work</strong>.
           </p>
           <p className="section-text">
-            Ravi Box Industries in Naraina, Delhi is a top player in the category of Box Manufacturers.
+            Ravi Box Industries in New Delhi is a top player in the category of Box Manufacturers.
             Also known for Corrugated Box Manufacturing, Packaging Box Manufacturing, Carton Manufacturing,
             Packaging Material Manufacturing and Wholesaling, Printed Corrugated Box Manufacturing, and much more.
           </p>

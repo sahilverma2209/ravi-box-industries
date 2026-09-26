@@ -14,7 +14,7 @@ function Footer() {
             <p className="footer-text">
               Ravi Box Industries has been established in the year 1996 with a wide vision of
               corrugated boxes and packaging solutions. We are the leading manufacturer, supplier
-              and service provider based in Naraina, Delhi.
+              and service provider based in New Delhi.
             </p>
           </div>
 
@@ -27,6 +27,7 @@ function Footer() {
                 <i className="fas fa-phone-alt"></i>
                 <div>
                   <p><a href="tel:+919811038123">+91 98110 38123</a></p>
+                  <p><a href="tel:+918920759356">+91 89207 59356</a></p>
                 </div>
               </div>
               <div className="footer-contact-item">
@@ -52,9 +53,9 @@ function Footer() {
             <div className="footer-contact-item">
               <i className="fas fa-map-marker-alt"></i>
               <div>
-                <p>Near Vihar Club,</p>
-                <p>Naraina,</p>
-                <p>Delhi, India</p>
+                <p>Plot at Kh No. 434/1, Budh Bajar,</p>
+                <p>Firni Road, Village Mundka,</p>
+                <p>New Delhi – 110041</p>
               </div>
             </div>
           </div>

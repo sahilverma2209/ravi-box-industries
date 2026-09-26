@@ -37,8 +37,9 @@ function Contact() {
                 <i className="fas fa-map-marker-alt"></i>
               </div>
               <h3>Our Address</h3>
-              <p>Near Vihar Club</p>
-              <p>Naraina, Delhi, India</p>
+              <p>Plot at Kh No. 434/1, Budh Bajar</p>
+              <p>Firni Road, Village Mundka</p>
+              <p>New Delhi – 110041</p>
             </div>
             <div className="contact-card">
               <div className="contact-card-icon">
@@ -46,6 +47,7 @@ function Contact() {
               </div>
               <h3>Phone</h3>
               <p><a href="tel:+919811038123">+91 98110 38123</a></p>
+              <p><a href="tel:+918920759356">+91 89207 59356</a></p>
             </div>
             <div className="contact-card">
               <div className="contact-card-icon">
@@ -95,7 +97,7 @@ function Contact() {
               </div>
               <div className="detail-item">
                 <span className="detail-label">Location</span>
-                <span className="detail-value">Naraina, Delhi, India</span>
+                <span className="detail-value">Firni Road, Village Mundka, New Delhi – 110041</span>
               </div>
               <div className="detail-item">
                 <span className="detail-label">Nature of Business</span>

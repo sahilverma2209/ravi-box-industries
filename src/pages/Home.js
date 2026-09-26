@@ -88,7 +88,7 @@ function Home() {
           <h2 className="section-title">Who We Are</h2>
           <div className="section-divider"></div>
           <p className="section-text">
-            Established in <strong>1996</strong> in Naraina, Delhi, <strong>Ravi Box Industries</strong> is
+            Established in <strong>1996</strong> in New Delhi, <strong>Ravi Box Industries</strong> is
             one of the leading businesses in Box Manufacturing. We are the most important Manufacturer,
             Supplier and Service Provider offering the best quality array of Storage Boxes,
             Printed Boxes, High BF Kraft Paper, and Printing Job Work. Over the course of our
@@ -221,7 +221,7 @@ function Home() {
               <h2 className="section-title">Visit Us</h2>
               <div className="section-divider"></div>
               <p>
-                Located at <strong>Near Vihar Club, Naraina, Delhi</strong>, our establishment
+                Located at <strong>Firni Road, Village Mundka, New Delhi – 110041</strong>, our establishment
                 occupies a prominent location easily accessible by various modes of transport.
                 We are a one-stop destination servicing customers both locally and from other parts of Delhi.
               </p>
