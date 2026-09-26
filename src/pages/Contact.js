@@ -197,7 +197,7 @@ function Contact() {
           <div className="section-divider"></div>
           <div className="map-container">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d875.6!2d77.1395888!3d28.6246294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d032effffffff%3A0x8fa5e92033724aaa!2sRavi%20Box%20Industries!5e0!3m2!1sen!2sin!4v1695600000000!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1750!2d77.02908!3d28.685088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQxJzA2LjMiTiA3N8KwMDEnNDQuNyJF!5e0!3m2!1sen!2sin!4v1695600000000!5m2!1sen!2sin"
               width="100%"
               height="450"
               style={{ border: 0, borderRadius: '10px' }}
@@ -209,7 +209,7 @@ function Contact() {
           </div>
           <div style={{ textAlign: 'center', marginTop: '1.5rem' }}>
             <a
-              href="https://www.google.com/maps/place/Ravi+Box+Industries/@28.6246294,77.1395888,19.35z/data=!4m6!3m5!1s0x390d032effffffff:0x8fa5e92033724aaa!8m2!3d28.6246163!4d77.1399655!16s%2Fg%2F1tjyr_f1"
+              href="https://www.google.com/maps/place/28%C2%B041'06.3%22N+77%C2%B001'44.7%22E/@28.6853062,77.027951,18.44z/data=!4m13!1m8!3m7!1s0x390d05e99a2757a5:0x805b990cc78523f6!2sMundka,+Delhi,+India!3b1!8m2!3d28.6823144!4d77.034937!16zL20vMGY1cG1m!3m3!8m2!3d28.685088!4d77.02908"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary"
