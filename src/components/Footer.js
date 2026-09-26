@@ -26,8 +26,8 @@ function Footer() {
               <div className="footer-contact-item">
                 <i className="fas fa-phone-alt"></i>
                 <div>
-                  <p><a href="tel:+919811038123">+91 98110 38123</a></p>
-                  <p><a href="tel:+918920759356">+91 89207 59356</a></p>
+                  <p>Ravi Verma: <a href="tel:+919811038123">+91 98110 38123</a></p>
+                  <p>Rajkumar Yadav: <a href="tel:+918920759356">+91 89207 59356</a></p>
                 </div>
               </div>
               <div className="footer-contact-item">

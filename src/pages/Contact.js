@@ -16,7 +16,9 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert('Thank you for your message! We will get back to you soon.');
+    const { name, email, phone, subject, message } = formData;
+    const whatsappMessage = `📦 *New Inquiry from Website*%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Email:* ${encodeURIComponent(email)}%0A*Phone:* ${encodeURIComponent(phone)}%0A*Subject:* ${encodeURIComponent(subject)}%0A%0A*Message:*%0A${encodeURIComponent(message)}`;
+    window.open(`https://wa.me/919811038123?text=${whatsappMessage}`, '_blank');
     setFormData({ name: '', email: '', phone: '', subject: '', message: '' });
   };
 
@@ -46,8 +48,8 @@ function Contact() {
                 <i className="fas fa-phone-alt"></i>
               </div>
               <h3>Phone</h3>
-              <p><a href="tel:+919811038123">+91 98110 38123</a></p>
-              <p><a href="tel:+918920759356">+91 89207 59356</a></p>
+              <p><strong>Ravi Verma:</strong> <a href="tel:+919811038123">+91 98110 38123</a></p>
+              <p><strong>Rajkumar Yadav:</strong> <a href="tel:+918920759356">+91 89207 59356</a></p>
             </div>
             <div className="contact-card">
               <div className="contact-card-icon">
@@ -184,7 +186,8 @@ function Contact() {
               ></textarea>
             </div>
             <button type="submit" className="btn btn-primary">
-              Send Message
+              <i className="fab fa-whatsapp" style={{ marginRight: '0.5rem' }}></i>
+              Send via WhatsApp
             </button>
           </form>
         </div>
