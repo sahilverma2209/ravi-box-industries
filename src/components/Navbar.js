@@ -17,7 +17,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         <NavLink to="/" className="navbar-logo" onClick={closeMenu}>
-          RBI
+          Ravi Box Industries
         </NavLink>
 
         <button
